@@ -24,5 +24,3 @@
     Since we want to have reference voltage 2.56V, REFS0 and  REFS1 both should be set, by the table.
 
    ![image](https://user-images.githubusercontent.com/81420042/144307793-1c613b96-f1be-46be-b53a-788a7ba785e4.png)
-
-    
