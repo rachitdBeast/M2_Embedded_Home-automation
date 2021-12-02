@@ -19,6 +19,3 @@ jobs:
       run: gcc hello.c -o hello.exe
     - name: Run
       run: ./hello.exe
-© 2021 GitHub, Inc.
-Terms
-Privacy
