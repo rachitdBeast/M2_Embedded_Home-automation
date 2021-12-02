@@ -1,4 +1,4 @@
-# setting the register of ADC based on the following terms:
+# setting the register of ADC based on the following terms
 
     1.First of all we need to enable the ADC feature in ADC.
 
