@@ -1,7 +1,18 @@
+/**
+ * @file code.c
+ * @author Selwyn Rachit Bhengra (selwynrachit@karunya.edu.in)
+ * @brief 
+ * @version 0.1
+ * @date 2021-12-02
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include <avr/io.h>
 #define F_CPU 1000000
 #include <util/delay.h>
 #include <stdlib.h>
+#include "code.h"
 
 void send_a_command(unsigned char command)
 {
