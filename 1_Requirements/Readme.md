@@ -28,7 +28,6 @@
     the penetration of home automation to homes of the wealthy or ambitious hobbyists. Possibly the first "home computer" was an experimental 
     system in 1966.
 
-    
 ## SWOT ANALYSIS
     Strength
     1. Very simple code and open source.
