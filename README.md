@@ -6,6 +6,7 @@ AVR based mini project to automate different process at home.
 
 
 ## Linux OS Build
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/80dbf4a29c3d4c499689e9ba097a2994)](https://app.codacy.com/gh/rachitdBeast/M2_Embedded_Home-automation?utm_source=github.com&utm_medium=referral&utm_content=rachitdBeast/M2_Embedded_Home-automation&utm_campaign=Badge_Grade_Settings)
 [![Linux OS Build](https://github.com/rachitdBeast/M2_Embedded_Home-automation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/rachitdBeast/M2_Embedded_Home-automation/actions/workflows/c-cpp.yml)
 
 ## Windows OS Build
