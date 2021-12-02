@@ -1,4 +1,13 @@
-#include <avr/io.h>
+/**
+ * @file main.c
+ * @author Selwyn Rachit Bhengra (selwynrachit@karunya.edu.in)
+ * @brief 
+ * @version 0.1
+ * @date 2021-12-02
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #define F_CPU 1000000
 #include <util/delay.h>
 #include <stdlib.h>
@@ -13,7 +22,7 @@
 int main(void)
 {
     DDRB = 0xFF;
-    DDRA = 0;
+    //DDRA = 0;
     DDRD = 0xFF;
     _delay_ms(50);
     
